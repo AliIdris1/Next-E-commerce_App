@@ -1,4 +1,4 @@
-// 'use client';
+'use client'
 import CategoryList from "@/components/CategoryList";
 import ProductList from "@/components/ProdustList";
 import Slider from "@/components/Slider";
